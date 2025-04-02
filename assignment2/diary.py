@@ -32,6 +32,5 @@ except Exception as e:
     print(f"Stack trace: {stack_trace}")
     
     
-    # Task 2: Read a csv file
     
     
