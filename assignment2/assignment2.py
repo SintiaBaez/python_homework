@@ -174,3 +174,4 @@ print("Converted List:", converted_list)
 
 with open("./minutes.csv", "r") as f:
     print(f.read())
+    
